@@ -32,6 +32,6 @@ LinkedIn: https://linkedin.com/in/venkat-poojari
 
 ## 📊 GitHub Stats
 
-![Ramana's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=dark)
