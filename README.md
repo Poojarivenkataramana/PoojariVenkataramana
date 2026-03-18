@@ -22,4 +22,42 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 💻 Projects:
+🔹 **Basic Calculator** – Python-based CLI calculator  
+🔹 **Password Strength Checker** – Checks password security using rules  
+
+---
+
+### 📚 Currently Learning:
+- Data Structures & Algorithms  
+- Power BI  
+- AI Tools & Prompt Engineering  
+
+---
+
+### 🌐 Connect with Me:
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email: yourmail@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile!*
