@@ -42,8 +42,9 @@
 ---
 
 ### 💻 Projects:
-🔹 **Basic Calculator** – Python-based CLI calculator  
-🔹 **Password Strength Checker** – Checks password security using rules  
+### 💻 Projects:
+🔹 [Basic Calculator](https://github.com/PoojariVenkataramana/basic_calculator) – Python-based CLI calculator  
+🔹 [Password Strength Checker](https://github.com/PoojariVenkataramana/password-strength-checker) – Checks password security using rules
 
 ---
 
