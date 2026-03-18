@@ -55,8 +55,8 @@
 ---
 
 ### 🌐 Connect with Me:
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/venkat-poojari/  
+- 📧 Email: poojarivenkataramana1@gmail.com  
 
 ---
 
