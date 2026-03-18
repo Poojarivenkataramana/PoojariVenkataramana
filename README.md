@@ -17,34 +17,44 @@
 ---
 
 ### 🚀 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=PoojariVenkataramana&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PoojariVenkataramana&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
 ### 💻 Projects:
-### 💻 Projects:
-🔹 [Basic Calculator](https://github.com/PoojariVenkataramana/basic_calculator) – Python-based CLI calculator  
-🔹 [Password Strength Checker](https://github.com/PoojariVenkataramana/password-strength-checker) – Checks password security using rules
+🔹 🔗 **[Basic Calculator](https://github.com/PoojariVenkataramana/basic_calculator)**  
+💡 Python CLI calculator with arithmetic operations  
+
+🔹 🔗 **[Password Strength Checker](https://github.com/PoojariVenkataramana/password-strength-checker)**  
+🔒 Checks password strength using rules  
 
 ---
 
@@ -56,8 +66,14 @@
 ---
 
 ### 🌐 Connect with Me:
-- 💼 LinkedIn: https://www.linkedin.com/in/venkat-poojari/  
-- 📧 Email: poojarivenkataramana1@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkat-poojari/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:poojarivenkataramana1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
