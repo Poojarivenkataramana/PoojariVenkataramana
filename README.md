@@ -1,4 +1,5 @@
-# Hi 👋 I'm Venkata Ramana
+<h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
+<h3 align="center">🚀 Python Developer | Data Enthusiast | Future AI Engineer</h3>
 
 🎓 B.Tech Student (2022–2026)
 
