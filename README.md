@@ -1,38 +1,62 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramana</h1>
 <h3 align="center">🚀 Python Developer | Data Enthusiast | Future AI Engineer</h3>
 
-🎓 B.Tech Student (2022–2026)
-
-💻 Python Developer | Data Enthusiast
-
----
-
-## 🚀 Skills
-- Python
-- SQL
-- NumPy
-- Pandas
-- Matplotlib
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;SQL+Learner;AI+Enthusiast;Future+Software+Engineer&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Data Analysis
-- Data Structures & Algorithms
+### 🙋‍♂️ About Me:
+- 🎓 B.Tech Student (2022–2026)
+- 💻 Passionate about Python, SQL & Data Analysis  
+- 🚀 Currently building real-world projects  
+- 📚 Learning DSA, AI Tools & Power BI  
+- 🎯 Goal: Become a Software Engineer  
 
 ---
 
-## 📂 Projects
-- Basic Calculator
-- Password Strength Checker
+### 🚀 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
 ---
 
-## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/venkat-poojari
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=dark)
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=dark)
+---
+
+### 💻 Projects:
+🔹 **Basic Calculator** – Python-based CLI calculator  
+🔹 **Password Strength Checker** – Checks password security using rules  
+
+---
+
+### 📚 Currently Learning:
+- Data Structures & Algorithms  
+- Power BI  
+- AI Tools & Prompt Engineering  
+
+---
+
+### 🌐 Connect with Me:
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 📧 Email: yourmail@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile!*
