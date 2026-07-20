@@ -34,7 +34,9 @@ location: India
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,matplotlib,jupyter,powerbi,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,jupyter,powerbi,github&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=for-the-badge"/>
 
 </div>
 
@@ -42,25 +44,50 @@ location: India
 
 ## 📌 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/PoojariVenkataramana/Python-30Days-30MiniProjects-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojariVenkataramana&repo=Python-30Days-30MiniProjects-&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
-<a href="https://github.com/PoojariVenkataramana/amazon-sales-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojariVenkataramana&repo=amazon-sales-dashboard&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
-<br/>
-<a href="https://github.com/PoojariVenkataramana/password-strength-checker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojariVenkataramana&repo=password-strength-checker&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
-<a href="https://github.com/PoojariVenkataramana/Student-management-system-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojariVenkataramana&repo=Student-management-system-python&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
+### 🐍 [Python-30Days-30MiniProjects](https://github.com/PoojariVenkataramana/Python-30Days-30MiniProjects-)
+30 mini Python projects, one built per day.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-> Update `username`/`repo` values above if any repo names differ from your actual GitHub.
+### 📘 [Pandas-Learning](https://github.com/PoojariVenkataramana/Pandas-Learning)
+My Pandas learning journey using Python and Jupyter Notebook.
+<br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Amazon Sales Dashboard](https://github.com/PoojariVenkataramana/amazon-sales-dashboard)
+Sales analysis dashboard built with Python, Pandas & Matplotlib.
+<br/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Password Strength Checker](https://github.com/PoojariVenkataramana/password-strength-checker)
+Rule-based password strength validator (uppercase, digits, symbols, length).
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Student Management System](https://github.com/PoojariVenkataramana/Student-management-system-python)
+CLI app for managing student records using core Python.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
 
@@ -73,7 +100,7 @@ location: India
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojariVenkataramana&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PoojariVenkataramana&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -87,7 +114,17 @@ location: India
 
 </div>
 
-> This needs a one-time GitHub Action setup — see setup note below.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=for-the-badge"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
 
