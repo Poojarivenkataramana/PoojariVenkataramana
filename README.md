@@ -34,8 +34,13 @@ location: India
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,jupyter,powerbi,github&theme=dark" />
-<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=for-the-badge"/>
 
 </div>
@@ -95,10 +100,10 @@ CLI app for managing student records using core Python.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=PoojariVenkataramana&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
