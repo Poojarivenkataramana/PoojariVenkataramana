@@ -99,14 +99,10 @@ CLI app for managing student records using core Python.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-
-<img src="https://streak-stats.demolab.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PoojariVenkataramana&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PoojariVenkataramana&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
