@@ -99,10 +99,16 @@ CLI app for managing student records using core Python.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PoojariVenkataramana&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <!-- GitHub Readme Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojariVenkataramana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojariVenkataramana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojariVenkataramana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
@@ -110,9 +116,11 @@ CLI app for managing student records using core Python.
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/PoojariVenkataramana/PoojariVenkataramana/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoojariVenkataramana/PoojariVenkataramana/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoojariVenkataramana/PoojariVenkataramana/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PoojariVenkataramana/PoojariVenkataramana/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
