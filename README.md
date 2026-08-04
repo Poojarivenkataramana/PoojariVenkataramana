@@ -99,8 +99,7 @@ CLI app for managing student records using core Python.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poojarivenkataramana&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poojarivenkataramana&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojarivenkataramana&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%25"/>
